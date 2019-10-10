@@ -1,0 +1,4 @@
+*.png
+*.mp4
+trained_rbm/*
+trained_dbn/*
